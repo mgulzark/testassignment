@@ -1,0 +1,11 @@
+[21-Sep-2017 02:40:58 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_forge::create_nasa_table() in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 14
+[21-Sep-2017 02:41:37 America/New_York] PHP Fatal error:  Call to a member function create_nasa_table() on null in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 14
+[21-Sep-2017 02:41:46 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_forge::create_nasa_table() in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 14
+[21-Sep-2017 02:42:32 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysqli_forge::create_nasa_table() in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 15
+[21-Sep-2017 03:01:40 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 25
+[21-Sep-2017 03:12:53 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/devhgmss/wordpress/project/application/controllers/Nasa.php on line 30
+[21-Sep-2017 04:30:21 America/New_York] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/devhgmss/wordpress/project/application/models/Neos_model.php on line 90
+[21-Sep-2017 04:30:58 America/New_York] PHP Fatal error:  Call to a member function result() on array in /home/devhgmss/wordpress/project/application/models/Neos_model.php on line 91
+[21-Sep-2017 04:31:20 America/New_York] PHP Fatal error:  Call to a member function result() on array in /home/devhgmss/wordpress/project/application/models/Neos_model.php on line 91
+[21-Sep-2017 04:31:39 America/New_York] PHP Fatal error:  Call to a member function result() on array in /home/devhgmss/wordpress/project/application/models/Neos_model.php on line 91
+[21-Sep-2017 04:48:43 America/New_York] PHP Fatal error:  Call to a member function result() on null in /home/devhgmss/wordpress/project/application/models/Neos_model.php on line 106
