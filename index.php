@@ -1,6 +1,6 @@
 <?php
 /**
- * CodeIgniter
+ * This is a CodeIgniter Application
  *
  * An open source application development framework for PHP
  *
